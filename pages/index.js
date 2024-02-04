@@ -55,7 +55,7 @@ export default function Home() {
                 className="inline-flex items-center px-5 py-3 text-sm font-medium text-gray-300 transition duration-300 bg-black rounded hover:bg-gray-800 dark:hover:bg-gray-200 dark:text-gray-700 dark:bg-white"
                 aria-label="learn more"
                 rel="noreferrer"
-                href="https://github.com/minor/plutonium/"
+                href="https://github.com/BuildxSaasApp/LP-Plutonium"
               >
                 <span className="flex justify-center">GitHub Link</span>
               </a>
