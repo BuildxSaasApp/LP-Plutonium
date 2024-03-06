@@ -130,7 +130,7 @@ export default function Features() {
               <ul className="mr-0 md:mr-10">
                 <li className="mb-2">
                   <a
-                    href="https://github.com/pacocoursey/next-themes"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                     className="font-semibold"
@@ -177,7 +177,7 @@ export default function Features() {
               <ul className="mr-0 md:mr-10">
                 <li className="mb-2">
                   <a
-                    href="https://github.com/garmeeh/next-seo"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                     className="font-semibold"
