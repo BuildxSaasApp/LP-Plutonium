@@ -16,8 +16,8 @@ export default function Footer() {
           className="flex items-center justify-center mt-3 font-medium title-font md:justify-start"
           href={
             router.pathname === "/"
-              ? `https://github.com/minor/plutonium/edit/main/pages/index.js`
-              : `https://github.com/minor/plutonium/edit/main/pages${router.pathname}.js`
+              ? ``
+              : ``
           }
         >
           <span className="text-sm md:ml-5">Edit on GitHub</span>
@@ -25,7 +25,7 @@ export default function Footer() {
         <span className="inline-flex justify-center mt-4 sm:ml-auto sm:mt-3 sm:justify-start">
           <a
             aria-label="mail"
-            href="maito:me@saurish.com?subject=From Plutonium!"
+            href=""
           >
             <svg
               className="w-5 h-5"
@@ -44,7 +44,7 @@ export default function Footer() {
           <a
             aria-label="twitter"
             className="ml-3"
-            href="https://twitter.com/saurishhh"
+            href=""
           >
             <svg
               fill="currentColor"
@@ -60,7 +60,7 @@ export default function Footer() {
           <a
             aria-label="instagram"
             className="ml-3"
-            href="https://instagram.com/saurishhh"
+            href=""
           >
             <svg
               fill="none"
@@ -95,7 +95,7 @@ export default function Footer() {
           <a
             aria-label="github"
             className="ml-3"
-            href="https://github.com/minor/plutonium/"
+            href=""
           >
             <svg
               width="30"
