@@ -12,10 +12,10 @@ This website is built with the following services:
 
 ## Replication
 
-### Installation
+### Usage
 
 ```bash
-$ git clone https://github.com/minor/plutonium.git
+
 $ cd plutonium
 $ yarn (or npm install)
 $ yarn dev (or npm run dev)
